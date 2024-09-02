@@ -1,6 +1,7 @@
 # Tableau-Citibike
 Module 18
 
+Tableau link can be view at:
 https://public.tableau.com/app/profile/lina.b6306/viz/CitibikeTableauChallenge_17251518945050/CitibikeTrends2023?publish=yes
 
 # Citibike Writeup
